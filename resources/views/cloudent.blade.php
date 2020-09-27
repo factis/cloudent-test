@@ -11,7 +11,7 @@
         <script src="{{ asset('js/angular1.6.js') }}"></script>
     </head>
     <body>
-        Setup
+        Setup Laravel 5.5-el és Angular JS 1.6-al!
     </body>
 </html>
 
