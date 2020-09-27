@@ -12,5 +12,9 @@
 */
 
 Route::get('/', function () {
-    return view('cloudent');
+    return view('countrycollection');
 });
+
+
+Route::get('/country/{id}', 'CountryController@show');
+
